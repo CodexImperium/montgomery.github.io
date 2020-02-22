@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header-container{
+    background: url("HeaderSection.svg") no-repeat center center;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    height: 650px;
+}
+
+.laptop-image img{
+    width: 450px;
+}
+
+.desc-exp-container{
+    margin-top: 10px;
+
+}
+
+.about-me{
+    background: url("AboutMeSection.svg") no-repeat center center ;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    height: 650px;
+}
+.header-title{
+    padding: 5px;
+}
+
+.header-title h1, .header-title h3{
+    font-family: 'Open Sans ', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 5px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.buttons{
+    padding: 10px;
+    margin: 5px;
+    transform: translateX(240px);
+}
+
+
+
+.navbar-nav .nav-link a{
+    color: snow;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+}
+
+.navbar-nav .nav-link a:hover{
+    color: black;
+    background-color: snow;
+
+    transition: ease-in 0.2s;
+}
+
+.header-title{
+    padding: 10px;
+    transform:  translateY(160px);
+}
+
+.header-title h1{
+    font-size: 50px;
+}
+
+
+.header-title h3{
+    font-size: 35px;
+}
+
+.header-container img {
+    top: -200px;
+}
+
+.about-me-header{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.description-text h3{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.skills-text h3{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+.skills-text ul li{
+    text-align: justify;
+    margin: 5px ;
+    font-family: "Open Sans", sans-serif;
+    font-size: 17px;
+    font-weight: lighter;
+
+}
+
+.img-thumbnail{
+    width: 350px;
+    margin: 15px;
+}
+
+.my-work{
+    background: url("My works.svg") no-repeat center center;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+.work-title{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.3);
+}

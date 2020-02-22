@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="658" viewBox="0 0 1366 658">
+  <defs>
+    <clipPath id="clip-HeaderSection">
+      <rect width="1366" height="658"/>
+    </clipPath>
+  </defs>
+  <g id="HeaderSection" clip-path="url(#clip-HeaderSection)">
+    <rect width="1366" height="658" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#3b8beb" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="1366" height="661" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1365" height="660" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M-86.665,522.051S35.079,295.073,90.792,387.927s-2.063,127.933,63.967,134.124,210.471,24.761,179.52,80.474-51.586,123.807,16.508,107.3S387.927,862.52,319.834,815.06s-70.157-101.109-198.091-68.094S45.4,765.538,2.063,755.221-86.665,522.051-86.665,522.051Z" transform="translate(18 -2)" fill="#3e72ae" stroke="rgba(112,112,112,0)" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M-86.665,522.051S35.079,295.073,90.792,387.927s-2.063,127.933,63.967,134.124,210.471,24.761,179.52,80.474-51.586,123.807,16.508,107.3S387.927,862.52,319.834,815.06s-70.157-101.109-198.091-68.094S45.4,765.538,2.063,755.221-86.665,522.051-86.665,522.051Z" transform="translate(1348.269 681.103) rotate(180)" fill="#3e72ae" stroke="rgba(112,112,112,0)" stroke-width="1"/>
+  </g>
+</svg>
